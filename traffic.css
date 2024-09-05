@@ -1,0 +1,39 @@
+.bg-container{
+    background-image: url("https://i.pinimg.com/originals/73/ec/fb/73ecfbe377a25e00d970c5b99b762b59.jpg");
+    background-color: #86d2f2;
+    height: 100vh;
+    background-size: cover;
+}
+
+.main-heading{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 50px;
+}
+
+.button{
+    border-radius: 10px;
+    color: white;
+    background-color: #1f1d41;
+    font-family: "Roboto";
+    border-width: 0px;
+    height: 40px;
+    width: 70px;
+    padding: 7px;
+    margin: 19px;
+}
+.responding-lights-container{
+    background-color: #1f1d41;
+    width: 90px;
+    height: 224px;
+    border-radius: 25px;
+}
+.respondingbulb{
+    background-color: #4b5069;
+    width: 45px;
+    height: 45px;
+    border-radius: 45px;
+    margin: 15px;
+    text-align: center;
+}
